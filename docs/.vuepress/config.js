@@ -24,6 +24,9 @@ module.exports = {
           updatePopup: true
         }]
     ],
+    shouldPrefetch: _ => {
+        return false
+    },
     themeConfig: {
         activeHeaderLinks: true,
         displayAllHeaders: true,
