@@ -1,0 +1,16 @@
+{
+    "name": "vuepress",
+    "short_name": "奇美拉文档",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#fff",
+    "theme_color": "#3eaf7c",
+    "icons": [
+      {
+        "src": "/chimera.ico",
+        "sizes": "120x120",
+        "type": "image/png"
+      }
+    ]
+  }
+  
