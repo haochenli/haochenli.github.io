@@ -1,8 +1,8 @@
 module.exports = {
     base: '/',
     head: [
-        ['link', { rel: 'icon', href: '/chimera.ico' }]
-        // ['link', { rel: 'manifest', href: '/manifest.json' }],
+        ['link', { rel: 'icon', href: '/chimera.ico' }],
+        ['link', { rel: 'manifest', href: '/manifest.json' }]
       ],
       plugins: [
         ['seo',
