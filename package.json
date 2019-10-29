@@ -1,0 +1,16 @@
+{
+  "name": "haochen",
+  "version": "1.0.0",
+  "description": "haochenli's technical blog",
+  "main": "index.js",
+  "author": "lihaochen",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "vuepress": "^1.2.0",
+    "@vuepress/plugin-pwa": "^1.0.0-rc.1",
+    "vuepress-plugin-seo": "^0.1.2"
+  }
+}
